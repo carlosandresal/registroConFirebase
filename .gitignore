@@ -34,6 +34,11 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+### Prepros ###
+# Config Prepros files to ignore
+prepros.cfg
+prepros-6.config
+
 # Runtime data
 pids
 *.pid
@@ -147,4 +152,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.gitignore.io/api/node,linux,bower,windows,firebase,sublimetext,visualstudiocode
+# End of https://www.gitignore.io/api/node,linux,bower,windows,firebase,sublimetext,visualstudiocode,prepros
